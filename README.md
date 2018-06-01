@@ -7,3 +7,5 @@
 [Juego de zombies](https://www.youtube.com/watch?v=SKFNouTFgto&list=PLWms45O3n--5vv69_AlMw23O1Z31CaW1F)
 
 [Programming Java with Atom](https://atom.io/packages/ide-java)
+
+[Game Designing with Java](https://www.gamedesigning.org/learn/java/)
