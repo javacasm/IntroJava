@@ -9,3 +9,11 @@
 [Programming Java with Atom](https://atom.io/packages/ide-java)
 
 [Game Designing with Java](https://www.gamedesigning.org/learn/java/)
+
+## Pacman en Java
+
+[Pacman en Java](https://github.com/dsouzarc/pacman)
+
+[Pacman using](https://github.com/MohamadSobhy/PacMan-Game-using-Java)
+
+[Pacman y sus AI agentes](http://stanford.edu/~cpiech/cs221/homework/prog/pacman/pacman.html)
